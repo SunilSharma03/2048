@@ -2,9 +2,7 @@
 
 # 🎮 2048 Game 🎮
 
-![2048 Game Animation](https://media.giphy.com/media/3o7buirY8g0g0g0g0g/giphy.gif) <!-- Replace with your own animation link -->
-
-## Overview
+🌟✨ 𝕿𝖍𝖎𝖘 𝖎𝖘 𝖈𝖗𝖊𝖆𝖙𝖊𝖉 𝖇𝖞 🅂🅄🄽🄸🄻 🅂🄷🄰🅁🄼🄰 ✨🌟
 
 Welcome to the **2048 Game** built with **HTML**, **CSS**, and **JavaScript**! This is a fun and addictive puzzle game where the objective is to combine tiles with the same number to reach the 2048 tile. Can you achieve this goal?
 
